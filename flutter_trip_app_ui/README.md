@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## Getting Started
-
+![home](https://github.com/Matheus-Tankian/desafio_flutter_ui/blob/main/flutter_trip_app_ui/trip_ui.gif)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
